@@ -1,0 +1,11 @@
+curl -X GET https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "head": {
+      "repo": {
+        "full_name": "YOUR_GITHUB_USERNAME/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
